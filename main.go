@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Add тут домашка
 func Add(a, b int) int {
 	return a + b
 }
